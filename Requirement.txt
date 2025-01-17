@@ -1,0 +1,5 @@
+simpletransformers
+torch
+matplotlib
+nvidia-tensorrt
+
